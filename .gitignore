@@ -12,7 +12,6 @@
 # Build
 bin
 build
-vendor
 .vendor-new
 build
 dist
